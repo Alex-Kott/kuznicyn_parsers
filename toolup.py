@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 def delay(f):
     async def wrapper(*args, **kwargs):
-        sleep(randint(2, 4))
+        sleep(randint(1, 3))
         return await f(*args, **kwargs)
     return wrapper
 
@@ -17,6 +17,11 @@ def delay(f):
 def save_product(product_info: Dict[str, Any]):
     with open("data.csv", "a") as file:
         file.write(f"{product_info}\n")
+
+
+def save_failed_product(e, product_url):
+    with open("failed_products.txt", 'a') as file:
+        file.write(f"{e}\n{product_url}\n\n")
 
 
 @delay
@@ -58,9 +63,6 @@ async def parse_product(session: ClientSession, product_url: str) -> Dict[str, A
         return data
 
 
-
-
-
 def count_pages(soup: BeautifulSoup) -> int:
     pagination_links = soup.find(class_="pagination-links")
     try:
@@ -88,10 +90,13 @@ async def parse_tool_items(session: ClientSession, tool_items_url: str):
             for item_cell in item_cells:
                 product_link = item_cell.find('a', itemprop='url')
 
-                product_info = await parse_product(session, f"{main_url}{product_link['href']}")
-                # product_info['parent_url'] = tool_items_url
-                print(product_info)
-                save_product(product_info)
+                try:
+                    product_info = await parse_product(session, f"{main_url}{product_link['href']}")
+                    print(product_info, end='\n\n')
+                    save_product(product_info)
+                except Exception as e:
+                    print(e, product_link['href'], end='\n\n')
+                    save_failed_product(e, f"{main_url}{product_link['href']}")
 
         params['page'] += 1
         current_page += 1

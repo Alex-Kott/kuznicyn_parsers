@@ -1,0 +1,435 @@
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/SENCO-RW17BPE-1-1-2-L-type-Cleat-Nails
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-25232-24-Vortec-Pro-Fine-Sweep-Floor-Brush-Tampico-Fill
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-44066-Block-Type-Scratch-Brush-012-Steel-Fill-Curved-Face
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-44063-Hand-Wire-Scratch-Brush-012-Steel-Fill-Shoe-Handle-4-x-16-Rows
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-42099-16-Street-Broom-7-1-4-Trim-Bass-Palmyra-Blend-Fill
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-25242-24-Vortec-Pro-Garage-Brush-Palmyra-Fill
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-25231-18-Vortec-Pro-Fine-Sweep-Floor-Brush-Tampico-Fill
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Amflo-4300-1-4-mini-piggyback-filter
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-AM1-PR07-20M-20-Gallon-Single-Stage-Gasoline-Air-Compressor
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-AM1-PR07-08M-8-Gallon-Single-Stage-Gasoline-Air-Compressor
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-AG2-SH13-B-8-Gallon-Two-Stage-Air-Compressor-Generator-Combination
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-ABS-14S-B-Base-Mount-Two-Stage-Gasoline-Air-Compressor
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-ABS-14S-80H-80-Gallon-Two-Stage-Gasoline-Air-Compressor
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-ABS-14S-30H-30-Gallon-Two-Stage-Gasoline-Air-Compressor
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/SENCO-PC1106-1-4-x-1-4-MPT-Coupler
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/SENCO-FINISHPRO32-ProSeries-16-Gauge-Finish-Nailer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/SENCO-SLP20XP-Senco-SLP20XP-18-Gauge-Brad-Nailer-w-Case-5-8-to-1-5-8-430101n
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-AN930H-3-1-2-High-Pressure-Framing-Coil-Nailer
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/DeWalt-DWFP1838-18GA-1-4-IN-CROWN-1-1-2-IN-STAPLER
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Senco-7B0001N-SNS200XP-16-17GA-7-16-Crown-2-Heavy-Wire-Stapler
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-303B-202X-M12-Heated-AXIS-Vest-Only-2X-Black
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-233B-202X-M12-Heated-Womens-AXIS-Jacket-Only-2X-Black
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-203B-20M-M12-Heated-AXIS-Jacket-Only-M-Black
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DeWalt-DCHJ075D1-2X-Black-Quilted-Heated-Jacket-Kit-XXL
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-2704-20-M18-FUEL-Cordless-Li-Ion-1-2-Hammer-Drill-Driver-Bare-Tool
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-DCF102Z-18V-max-LXT-Lithium-Ion-cordless-7-1-8-Fan
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-GBA12V30-12V-Max-Lithium-Ion-3.0-Ah-Battery
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/makita-192598-2-12V-2-0Ah-Ni-Cd-Battery-1222
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Festool-201775-Battery-pack-BP-18-Li-6-2-Ah-Li-Ion-AS
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Festool-201066-Battery-pack-BP-18-Li-5-2-Ah-Li-Ion-AS
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Bosch-BC660-18V-Lithium-Ion-Battery-Charger
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Motorola-PMNN4434AR-RM-Standard-LI-ION-Battery
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-48-08-1093-20oz-Aluminum-Barrel-Sausage-Conversion-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/DeWalt-DCE5802-300ml-Clear-Sausage-Tube-Dispenser
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/DeWalt-DCE5801-600ml-Clear-Sausage-Tube-Dispenser
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-48-08-1076-10oz-Carriage-Conversion-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2695-24-M18-Cordless-Combo-Compact-Hammer-Drill-Hackzall-1-4-Hex-Impact-Driver-Work-Light
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2898-22-M18-FUEL-Hammer-Drill-and-Metal-Circular-Saw-Combo-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2896-24-M18-FUEL-Cordless-Li-Ion-4-Tool-Combo-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2899-22-M18-FUEL-Hammer-Drill-and-1-4-Hex-SURGE-Impact-Driver-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Bosch-CLPK222-181-18V-2-Tool-Combo-Kit-with-1-2-Hammer-Drill-Driver-and-1-4-Hex-Impact-Driver
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/12V-Max-CXT-Li-Ion-Cordless-3-Piece-Combo-Kit-2-0Ah
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/18V-LXT-Li-Ion-Cordless-2-Piece-Combo-Kit-Hammer-Drill-Impact-Driver-4-0-Ah
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DeWalt-DCK233P2-20V-MAX-XR-Rotary-Hammer-Impact-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-CT226-12V-Max-CXT-3-8-Driver-Drill-and-Impact-Driver-Combo-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-CLPK414-181-18V-1-2-1-4-Impact-1-2-Hammer-Drill-Driver-Recip-Saw-Flashlight-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Jet-708657K-Dust-Collector-1-5HP-1PH-115-230V-30-Micron-Bag-Filter-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DeWalt-DWV9400-Disposable-Plastic-Liner-for-DWV012-Dust-Extractor-Pack-of-5
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/ProLube-43073-Heavy-Duty-Pistol-Grip-Grease-Gun-5000psi-with-4-Steel-Ext
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/ProLube-42702-Lever-Grease-Gun-Heavy-Duty-10000psi
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/18V-LXT-Li-Ion-Cordless-1-4-in-Die-Grinder-Kit-5-0Ah
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2899-22-M18-FUEL-Hammer-Drill-and-1-4-Hex-SURGE-Impact-Driver-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Bosch-CLPK222-181-18V-2-Tool-Combo-Kit-with-1-2-Hammer-Drill-Driver-and-1-4-Hex-Impact-Driver
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-LT01Z-12V-Max-CXT-Li-Ion-Cordless-Angle-Impact-Driver-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Metabo-602196850-SSD-18-LTX-200-BL-18V-1-4-Hex-Impact-Driver-bare
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-XDT14Z-18V-LXT-Li-Ion-Brushless-QS-3-Speed-Impact-Driver-Bare-Tool
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2767-22GG-M18-FUEL-1-2-High-Torque-Impact-Wrench-with-Free-Grease-Gun
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Milwaukee-2860-21-M18-FUEL-1-2-Mid-Torque-Impact-Wrench-with-5.0-Starter-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DeWalt-DCF899HB-20v-MAX-XR-Brushless-1-2-Impact-Wrench-Hog-Ring-Bare
+
+
+https://www.toolup.com/Makita-TP03Z-12V-Max-CXT-Lithium-Ion-Cordless-Pin-Nailer-23-ga.
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Porter-Cable-PCC792LA-20-V-MAX-Lithium-16-Gauge-Straight-Finish-Nailer-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Stanley-12-140-No-92-Shoulder-Chisel-Plane
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Motorola-HKLN4604-Swivel-Earpiece-with-Microphone-and-PTT-Replaces-RLN6423
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-2612-21-M18-Cordless-5-8-SDS-Plus-Rotary-Hammer-Kit
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-XRH06RB-18V-LXT-Sub-Compact-Brushless-11-16-Rotary-Hammer-Kit
+
+
+https://www.toolup.com/DeWalt-DWE6411K-1-4-Sheet-Orbital-Finish-Sander
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Klein-KL5295-8L-Positioning-Strap-8
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Klein-63443-Moving-Blade-for-Ratcheting-Cable-Cutter
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Klein-KL5295-7L-Positioning-Strap-7
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Ideal-46-609-Heat-shrink-disk-3-4-x-4-foot
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Ideal-89-304-Terminal-Strip-4-Circuit-Box-of-10
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Ideal-46-401-Thermo-Shrink-Underground-Splice-Kit-Al-Cu-8-AWG-4-AWG-600V
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/ITW-Ramset-Red-Head-RL-34-multi-set-ii-drop-in-anchor-Lipless-3-4
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/product/384133
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bostitch-PT-16D131FH2-NAIL-PT-3-5IN-X-131-SMOOTH-BRITE-OSR-2M
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Stanley-PAA44-1B-Aluminum-Rivets-1-8-X-1-4-100-Pack
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Alcoa-Fastening-40421-500-5-16-3-8-Klik-Fast-Blind-Rivets-SS-SS-Buttonhead
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/MarshallTown-STAPLES38-12947-Staples-3-8-1000-Staples-Box
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/MarshallTown-STAPLES916-12949-Staples-9-16-1000-Staples-Box
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DuroStar-DS10000EH-10000W-18-Hp-Dual-Fuel-HYBRID-Generator-Electric-Start
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DuroStar-DS10000E-10000W-18-Hp-Gas-Generator-w-Electric-Start-and-Wheel-Kit
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Yamaha-EF3000IS-3000-Watt-Gasoline-Manual-Start-Inverter-Generator
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-GEN-5000-0MS0-5000-Watt-Gasoline-Portable-Generator
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Generac-6439-Guardian-11kW-Air-Cooled-Automatic-Home-Standby-Generator-Steel-Enclosure
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Generac-6245-Guardian-8kW-Air-Cooled-Automatic-Home-Standby-Generator-Steel-Enclosure
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-JP-3504-3MSB-JP-Series-Gasoline-Direct-Drive-Cold-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-JP-2403-3MHB-JP-Series-Gasoline-Direct-Drive-Cold-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-JCW-2403-0MRB-JCW-Series-Gasoline-Belt-Drive-Cold-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-JCW-2403-0MHB-JCW-Series-Gasoline-Belt-Drive-Cold-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-HSE-2504-0M30-HSE-Series-Electric-Direct-Belt-Drive-Hot-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-HSE-2504-0M10-HSE-Series-Electric-Direct-Belt-Drive-Hot-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Mi-T-M-CWC-6004-4MGH-CWC-Premium-Series-Gasoline-Belt-Drive-Cold-Water-Pressure-Washer
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Diamond-Products-03853-FC7314SLR-14-73cc-Fast-Cut-SLR-Cut-Off-Saw
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-EK7301-14-Power-Cutter-73-cc-
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Vise-Grip-2078310-10-Forged-Crimper
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/MarshallTown-FCS86-12686-Electric-Floor-Covering-Stripper-75HP
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/MarshallTown-4508D-8-Blue-Steel-Taping-Knife-with-DuraSoft-II-Handle
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Champion-2002-2-T-Handle-Contractor-Series-Tap-Wrench
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Champion-302-4-40-B-Carbon-Hand-Taps-4-40-Bottom
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Nicholson-21471N-Size-00-Metal-Ferruled-Wooden-handle
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Nicholson-08243N-4-Mill-Bastard-Cut-File
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Weiler-44260-File-Card-Brush-012-Steel-Fill
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/GearWrench-83134-8-Professional-150-Lumen-Ultra-Thin-Flex-Head-Work-Light
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Proto-J4027-PULLER-JAW-6-TON-NARROW
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Klein-662-7-INS-2-Insulated-Screwdriver-7-Shank
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Klein-1005-INS-Insulated-Crimping-Cutting-Tool
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Klein-11049-INS-Insulated-Wire-Stripper-Cutter
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/MarshallTown-SL12-10352-1-2-Slicker
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Stanley-TR150HL-Heavy-Duty-Aluminum-Stapler-High-Low-Setting
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Klein-1004-Wire-Stripper-Cutter-Solid-and-Stranded-Wire
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Ideal-35-781-Replacement-Blades-for-Rotary-BX-Cable-Cutter-5-Pack
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-BHD5M90-5mm-.90-High-Carbon-Steel-Metric-Hex-Die
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-BPT12M125-12mm-1.25-High-Carbon-Steel-Metric-Plug-Tap
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-BPT716F20-7-16-In.-20-High-Carbon-Steel-Fractional-Plug-Tap
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-BPT716F14-7-16-In.-14-High-Carbon-Steel-Fractional-Plug-Tap
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Dewalt-DWMT73811-Tough-Box-Tool-Kit-1-4-Drive-Deep-Socket-Set
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Crescent-CTK148MPN-148-Piece-Crestoloy-Steel-Heavy-Duty-General-Purpose-Tool-Set-in-Blow-Mold-Case
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/GearWrench-85090R-10-Piece-Full-Polished-Chrome-XL-Metric-Combination-Ratcheting-Wrench-Set-w-Roll
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/GearWrench-81925-14-Piece-6-Point-Metric-Standard-Pattern-Combination-Wrench-Set
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Vise-Grip-2078945-5-1-4-Flat-Nose-Pliers-With-Spring
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Spectra-Precision-Laser-AL24M-1-Auto-Level-Package-With-Rod-In-Tenths
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Leica-764558-DISTO-D8-Laser-Distance-Meter
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Spectra-Precision-Laser-LR20-1-Laser-Receiver-Machine-Control-Display-MMM
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Spectra-Precision-Laser-LR20-Laser-Receiver-Machine-Control-Display
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Spectra-Precision-Laser-LL300S-47-Laser-Level-With-HL760-Receiver-NiMh-Batteries
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/PLS-360-Kit-360-Degree-Self-Leveling-Laser-W-Det-And-Tripod
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Pacific-Laser-PLS-60521N-PLS-180-Self-Leveling-Red-Cross-Line-Laser-Level
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-BT300-Heavy-Duty-Aluminum-Tripod
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Spectra-Precision-Laser-GR151-Grade-Rod-15-Tenths-5-Section-Telescopic-Alum-W-Case-
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Spectra-Precision-Laser-GR152-Grade-Rod-15-Inches-5-Section-Telescopic-Alum-W-Case-
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Bosch-BP350-Telescoping-Pole-with-20-Laser-Mount
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Rubbermaid-FG781988LPLAT-Baby-Changing-Station-Vertical
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/DeWalt-DCBL770X1-60V-Max-Handheld-Blower
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Black-Decker-LSW120-20V-Lithium-Cordless-Sweeper
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-2725-20-M18-FUEL-String-Trimmer-Bare-Tool
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Makita-T-03713-Round-Trimmer-Line-0.080-Green-1-200-3-lbs.-4-Pack
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Jett-109115-L100-1500WO-15-15T-Hoist-w-15-Lift-OLP
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Jett-100220-L100-25-20-1-4T-Hoist-w-20-Lift
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Jett-108015-L100-2000WO-15-20T-Hoist-w-15-Lift-OLP
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Jett-101130-L100-1500-30-15T-Hoist-w-30-Lift
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Jett-209130-L100-1000WO-30-10-Ton-Chain-Hoist-with-OLP-and-30-Lift
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Jett-102015-L100-2000-15-20T-Hoist-w-15-Lift
+
+'NoneType' object has no attribute 'text'
+https://www.toolup.com/Jett-102000-L-100-20T-20-with-Overload-Protection
+
+'NoneType' object has no attribute 'find_all'
+https://www.toolup.com/Milwaukee-9676-20-2-Ton-Hand-Hoist-20FT
+
+[Errno 104] Connection reset by peer
+https://www.toolup.com/EZ-Roll-CED-1830-3HR-18-x-30-Carpet-End-Dolly
+
