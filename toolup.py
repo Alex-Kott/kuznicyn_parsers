@@ -1,8 +1,10 @@
 import asyncio
+import json
 from time import sleep
 from typing import Dict, Any
 from random import randint
 
+import backoff as backoff
 from aiohttp import ClientSession
 from bs4 import BeautifulSoup
 
@@ -15,16 +17,18 @@ def delay(f):
 
 
 def save_product(product_info: Dict[str, Any]):
-    with open("data.csv", "a") as file:
-        file.write(f"{product_info}\n")
+    parsed_products.append(product_info)
+    with open("data.json", "w") as file:
+        json.dump(parsed_products, file)
 
 
 def save_failed_product(e, product_url):
     with open("failed_products.txt", 'a') as file:
-        file.write(f"{e}\n{product_url}\n\n")
+        file.write(f"{product_url}\n")
 
 
 @delay
+@backoff.on_exception(backoff.expo, Exception, max_tries=3)
 async def parse_product(session: ClientSession, product_url: str) -> Dict[str, Any]:
     data = {}
     print(product_url)
@@ -91,12 +95,14 @@ async def parse_tool_items(session: ClientSession, tool_items_url: str):
                 product_link = item_cell.find('a', itemprop='url')
 
                 try:
-                    product_info = await parse_product(session, f"{main_url}{product_link['href']}")
-                    print(product_info, end='\n\n')
-                    save_product(product_info)
+                    product_url = f"{main_url}{product_link['href']}"
+                    if product_url not in parsed_products_links:
+                        product_info = await parse_product(session, product_url)
+                        print(product_info, end='\n\n')
+                        save_product(product_info)
                 except Exception as e:
                     print(e, product_link['href'], end='\n\n')
-                    save_failed_product(e, f"{main_url}{product_link['href']}")
+                    save_failed_product(e, product_url)
 
         params['page'] += 1
         current_page += 1
@@ -125,4 +131,15 @@ async def main() -> None:
 
 if __name__ == "__main__":
     main_url = 'https://www.toolup.com'
+
+    with open("data.json") as file:
+        parsed_products = json.loads(file.read())
+
+    print(len(parsed_products))
+
+    parsed_products_links = [product['product_url'] for product in parsed_products]
+
+    with open("failed_products.txt") as file:
+        failed_product_links = {link for link in file.readlines()}
+
     asyncio.run(main())
