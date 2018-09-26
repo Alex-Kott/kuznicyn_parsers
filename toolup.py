@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 def delay(f):
     async def wrapper(*args, **kwargs):
-        sleep(randint(1, 3))
+        sleep(randint(1, 1))
         return await f(*args, **kwargs)
     return wrapper
 
@@ -137,7 +137,7 @@ if __name__ == "__main__":
 
     print(len(parsed_products))
 
-    parsed_products_links = [product['product_url'] for product in parsed_products]
+    parsed_products_links = {product['product_url'] for product in parsed_products}
 
     with open("failed_products.txt") as file:
         failed_product_links = {link for link in file.readlines()}
